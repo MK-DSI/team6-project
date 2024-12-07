@@ -45,10 +45,10 @@ The objective of this project is to reduce the set of symptoms required for accu
 
 This involves:
 1) Understanding the dataset, standardization and cleanup 
-2) Selection suitable classification algorithms 
-3) Creating a pipeline to test various hyperparameter settings for each model
-4) Identifying the most important features (symptoms) for each model 
-5) Through iterative model training and optimization, evaluate if the number of features (symptoms) can be reduced while preserving minimal impact on precision and recall.
+2) Selection of suitable classification algorithms 
+3) Creation of a pipeline to test various hyperparameter settings for each model
+4) Identification of the most important features (symptoms) for each model 
+5) Through iterative model training and optimization, evaluation if the number of features (symptoms) can be reduced while preserving minimal impact on precision and recall.
 
 Reduction of symptom may have positive impact on reduction of time and resources during intake and triage.
 
